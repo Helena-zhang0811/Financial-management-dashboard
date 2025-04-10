@@ -38,6 +38,11 @@ This dashboard allows users to:
 
 ---
 
+## Dashboard Preview
+
+![Dashboard Screenshot](<img width="452" alt="image" src="https://github.com/user-attachments/assets/85f48f93-c238-4059-8514-a7e7c102957b" />
+)
+
 ## How to Run Locally
 
 1. Clone the repo:
