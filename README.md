@@ -1,6 +1,6 @@
 # Financial-management-dashboard
 An integrated tool for managing finances by combining daily spending, investment tracking, and financial insights. This dashboard offers access to historical records, budget analysis, and updates on financial news and stock/bond prices, helping users make informed savings and investment decisions.
-## 🎯 Project Overview
+## Project Overview
 
 This dashboard allows users to:
 - Input daily earnings, expenses, and investment returns/losses
@@ -10,7 +10,7 @@ This dashboard allows users to:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python**
 - **Dash** (for interactive layout and callbacks)
@@ -20,25 +20,25 @@ This dashboard allows users to:
 
 ---
 
-## 📽 Walkthrough Video
+## Walkthrough Video
 
 ▶️ [Watch the project walkthrough on YouTube](https://youtu.be/rzInY1Nmu-U)
 
 ---
 
-## 📄 Project Report
+## Project Report
 
 📝 [Download the Design Report (PDF)](./financial_management_report.pdf)
 
 ---
 
-## 💻 Dashboard Script
+## Dashboard Script
 
 📂 [View the Python Dashboard Code](./interactive_financial_dashboard.py)
 
 ---
 
-## 🔧 How to Run Locally
+## How to Run Locally
 
 1. Clone the repo:
    ```bash
