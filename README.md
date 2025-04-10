@@ -40,7 +40,7 @@ This dashboard allows users to:
 
 ## Dashboard Preview
 
-
+![Dashboard Screenshot](./image.png)
 
 ## How to Run Locally
 
